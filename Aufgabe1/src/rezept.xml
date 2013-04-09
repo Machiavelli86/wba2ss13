@@ -1,2 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<collection>
+	<recipe>
+		<title>Lenchen's Schokoladenkuchen</title>
+		<photos>
+			<photo>
+				<user>olli86</user>
+				<address>http://www.google.com/foto1.jpg</address>
+			</photo>
+			<photo>
+				<user>Hamburgerjungs</user>
+				<address>http://www.google.com/foto6.jpg</address>
+			</photo>
+		</photos>
+		<portions>16</portions>
+		<ingredients>
+			<ingredient>
+				<sort>Butter</sort>
+				<amount>200</amount>
+				<unit>g</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Zucker</sort>
+				<amount>200</amount>
+				<unit>g</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Schokolade, Blockschokolade</sort>
+				<amount>200</amount>
+				<unit>g</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Mehl</sort>
+				<amount>120</amount>
+				<unit>g</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Backpulver</sort>
+				<amount>0,5</amount>
+				<unit>TL</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Vanillezucker</sort>
+				<amount>1</amount>
+				<unit>Pkt.</unit>
+			</ingredient>
+			<ingredient>
+				<sort>Zucker</sort>
+				<amount>200</amount>
+				<unit>g</unit>
+			</ingredient>
+		</ingredients>
+		<time unit="Std">1</time>	
+		<difficulty>normal</difficulty>
+		<nutrition unit="kcal">295</nutrition>
+		<step>Butter und Schokolade...</step>
+		<comment>
+			<comment>
+				<writer>swieslechen90</writer>
+				<avatar>http://www.blockhouse.com/avatar1.jpg</avatar>
+				<date>2002-02-07T18:49:00.000+01:00</date>
+				<message>Kuchen schmeckt nach...</message>
+			</comment>
+			<comment>
+				<writer>Sissi</writer>
+				<avatar>http://www.pupsmitsahne.com/avatar2.jpg</avatar>
+				<date>2003-01-07T15:06:00.000+01:00</date>
+				<message>Ganz Klasse...</message>
+			</comment>
+		</comment>
+	</recipe>
+</collection>
+
+
+
+
+
+
+
+
+
+
+
+
