@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Aufgabe3.xsd">
+  <recipe>
+    <title>title</title>
+    <photos/>
+    <portions>1</portions>
+    <ingredients>
+      <ingredient>
+        <sort>sort</sort>
+      </ingredient>
+    </ingredients>
+    <time unit="">0</time>
+    <difficulty>easy</difficulty>
+    <nutrition unit="kcal">0</nutrition>
+    <step>step</step>
+    <comment/>
+</recipe>
+
+<recipe>
+    <title>title</title>
+    <photos/>
+    <portions>4</portions>
+    <ingredients>
+      <ingredient>
+        <sort>Zucker</sort>
+      </ingredient>
+    </ingredients>
+    <time unit="Std">2</time>
+    <difficulty>medium</difficulty>
+    <nutrition unit="kcal">456</nutrition>
+    <step>step</step>
+    <comment/>
+  </recipe>
+
+
+</collection>

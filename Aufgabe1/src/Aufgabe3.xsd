@@ -63,7 +63,7 @@
 
 	<xsd:complexType name="ingredients">
 		<xsd:sequence>
-			<xsd:element ref="ingredient" maxOccurs="unbounded" minOccurs="0"/>
+			<xsd:element ref="ingredient" maxOccurs="unbounded" minOccurs="1"/>
 		</xsd:sequence>
 	</xsd:complexType>
 

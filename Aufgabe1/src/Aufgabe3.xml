@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Aufgabe3.xsd">
+  <recipe>
+    <title>title</title>
+    <photos/>
+    <portions>1</portions>
+    <ingredients/>
+    <time unit="">0</time>
+    <difficulty>easy</difficulty>
+    <nutrition unit="">0</nutrition>
+    <step>step</step>
+    <comment/>
+  </recipe>
+</collection>
