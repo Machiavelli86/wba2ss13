@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument>
+	<gruppenleiter>
+	<vorname>Vincent</vorname>
+	<nachname>Dellaghetto</nachname>
+	<mail>vincent.dela@web.de</mail>
+	<geburtsdatum>1990-06-02</geburtsdatum>
+	<erfahrung>Koenner</erfahrung>
+	<schlagzeug>nicht vorhanden</schlagzeug>
+	<anmerkungen>eine lange aufwaermphase...</anmerkungen>
+	</gruppenleiter>
+<mitglieder>
+<mitglied>
+<vorname>Max</vorname>
+<nachname>Mustermann</nachname>
+<mail>maxmustermann@fritz.de</mail>
+<geburtsdatum>1977-05-03</geburtsdatum>
+<erfahrung>Anfaenger</erfahrung>
+<schlagzeug>vorhanden</schlagzeug>
+<anmerkungen></anmerkungen>
+</mitglied>
+
+<mitglied>
+<vorname>Julian</vorname>
+<nachname>Mayer</nachname>
+<mail>julian.m@mapo.de</mail>
+<geburtsdatum>1979-03-03</geburtsdatum>
+<erfahrung>Amateur</erfahrung>
+<schlagzeug>vorhanden</schlagzeug>
+<anmerkungen>bitte um ausreichend platz...</anmerkungen>
+</mitglied>
+
+
+
+</mitglieder>
+
+
+
+
+</dokument>
+
+
+
+
+
+
+
+
+

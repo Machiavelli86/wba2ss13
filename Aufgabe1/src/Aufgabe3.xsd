@@ -22,7 +22,7 @@
 	<xsd:element name="step" type="xsd:string" />
 	<xsd:element name="comments" type="comments_type" />
 	<xsd:element name="comment" type="comment_type" />
-	<xsd:element name="writer" type="xsd:string" />
+	<xsd:element name="author" type="xsd:string" />
 	<xsd:element name="avatar" type="xsd:anyURI" />
 	<xsd:element name="date" type="xsd:dateTime" />
 	<xsd:element name="message" type="xsd:string" />
@@ -77,7 +77,7 @@
 
 	<xsd:complexType name="time">
        	<xsd:simpleContent>
-       		<xsd:extension base="xsd:integer">
+       		<xsd:extension base="xsd:float">
             	<xsd:attribute name="unit" type="xsd:string" use="required"/>
             </xsd:extension>
        	</xsd:simpleContent>
@@ -107,7 +107,7 @@
 
 	<xsd:complexType name="comments_type">
 		<xsd:sequence>
-			<xsd:element ref="writer" />
+			<xsd:element ref="author" />
 			<xsd:element ref="avatar" />
 			<xsd:element ref="date" />
 			<xsd:element ref="message" />

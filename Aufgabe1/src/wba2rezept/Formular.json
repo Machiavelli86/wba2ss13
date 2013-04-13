@@ -1,0 +1,32 @@
+{
+    
+    "gruppenleiter": {
+        "vorname": "Vincent",
+        "nachname": "Dellaghetto",
+        "email": "vincent.dela@web.de",
+        "geburtsdatum": "1990-06-02",
+        "erfahrung": "Koenner",
+        "schlagzeug": "nicht vorhanden",
+        "anmerkung": "eine lange aufwaermphase..."
+},
+    
+    	"mitglieder":
+        [{
+            "vorname": "Max",
+            "nachname": "Mustermann",
+            "email": "john@island.lost",
+            "geburtsdatum": "1977-05-03",
+            "erfahrung": "Anfaenger",
+            "schlagzeug": "vorhanden",
+            "anmerkung": ""
+       },
+        {
+            "vorname": "Julian",
+            "nachname": "Mayer",
+            "email": "julian.m@mapo.de",
+            "geburtsdatum": "1979-03-03",
+            "erfahrung": "Amateur",
+            "schlagzeug": "vorhanden",
+            "anmerkung": "bitte um ausreichend platz"
+        }]
+}
